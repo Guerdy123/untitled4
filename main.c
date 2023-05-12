@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Mon chien est le meilleur\n");
+    printf("Eso es mi primer intento con el git desde Clion\n");
     return 0;
 }
